@@ -1,6 +1,6 @@
 - 👋 Hi, I’m just Marara
-- 👀 I’m interested in backend development and multi computing.
-- 🌱 I’m currently learning parallel computing and web services with huge amount of requests.
+- 👀 I’m interested in backend development and data engineering.
+- 🌱 I’m currently learning doin my masters MSc Advanced Computer Science in University of Liverpool
 - 📫 How to reach me, send messages to my LinkedIn (https://www.linkedin.com/in/marzhan-nuraly-8495761aa/)
 
 <!---
