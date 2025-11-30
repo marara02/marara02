@@ -1,4 +1,5 @@
-- 👋 Hi, I’m just Marara
+- 👋 Hi, I’m just Marara, Mara or Marzhan
+- 🔭 Underground degree from Astana IT University, Master's Degree from University of Liverpool in Computer Science.
 - 👀 I’m software, sometimes data engineer in the United Kingdom from Kazakhstan.
 - 🌱 Interested in cloud architecture, optimization, software development, and AI :)
 - 📫 How to reach me, send messages to my LinkedIn (https://www.linkedin.com/in/marzhan-nuraly-8495761aa/)
